@@ -13,6 +13,6 @@ I love cookies and especially hell’s pancakes :3
 
 ### Activity statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeilanDev&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeilanDev&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VeilanDev&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VeilanDev&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
