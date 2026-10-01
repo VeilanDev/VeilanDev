@@ -1,6 +1,6 @@
 ## Hi, im Veilan
 
-I’m a simple independent software and indie game developer.
+I’m a simple independent software and indie game developer.    
 I love cookies and especially hell’s pancakes :3
 
 ### Programming languages & engines
